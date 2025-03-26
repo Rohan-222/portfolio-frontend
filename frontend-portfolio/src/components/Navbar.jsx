@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { RiCloseFill, RiMenu3Fill } from "@remixicon/react";
 
 const LINKS = [
-  { href: "/", label: "Home" },
+  { href: "#work", label: "Work"},
   { href: "#about", label: "About" },
   { href: "#experience", label: "Experience" }, // Lowercased for consistency
   { href: "#testimonials", label: "Testimonials" }, // Fixed typo
