@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  background: #000000; /* Fixed incorrect syntax */
+  color: #ffffff;
+  scroll-behavior: smooth;
+}
+
+.bg-image {
+  background-image: url("/assets/jason-root.webp"); /* Use absolute path if in public/ */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#work, 
+#about, 
+#experience, 
+#testimonials, 
+#contact {
+  scroll-margin-top: 80px;
+}
