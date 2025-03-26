@@ -21,7 +21,7 @@ const Navbar = () => {
       <div className="flex justify-between items-center max-w-6xl mx-auto md:my-2 bg-stone-950/30 md:rounded-xl backdrop-blur-lg p-4">
         {/* Logo */}
         <div className="text-white font-semibold text-lg uppercase">
-          <a href="/">JASON ROOT</a>
+          <a href="/">Rohan Mahadev</a>
         </div>
 
         {/* Desktop Navigation */}
