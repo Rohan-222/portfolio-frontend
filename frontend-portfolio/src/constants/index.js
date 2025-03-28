@@ -180,5 +180,5 @@ export const CONTACT_CONTENT = {
       icon: "RiLinkedinFill",
     },
   ],
-  footerText: `© ${new Date().getFullYear()} Jason Root. All rights reserved.`,
+  footerText: `© ${new Date().getFullYear()} Rohan Mahadev. All rights reserved.`,
 };
